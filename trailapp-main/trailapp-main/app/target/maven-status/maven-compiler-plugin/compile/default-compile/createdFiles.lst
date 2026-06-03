@@ -1,7 +1,0 @@
-com/fintech/model/Product.class
-com/fintech/servlet/LoginServlet.class
-com/fintech/DBUtil.class
-com/fintech/servlet/ViewProductsServlet.class
-com/fintech/DBServlet.class
-com/fintech/servlet/AddProductServlet.class
-com/fintech/dao/ProductDAO.class
